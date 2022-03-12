@@ -13,3 +13,7 @@ func SayGoodBye() {
 func SayGoodMorning() {
 	fmt.Println("Good Morning!")
 }
+
+func SayGoodEvening() {
+	fmt.Println("Good Evening!")
+}
