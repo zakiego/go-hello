@@ -17,3 +17,7 @@ func SayGoodMorning() {
 func SayGoodEvening() {
 	fmt.Println("Good Evening!")
 }
+
+func SayNothing() {
+	fmt.Println(":(")
+}
