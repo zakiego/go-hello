@@ -2,8 +2,8 @@ package hello
 
 import "fmt"
 
-func SayHello() {
-	fmt.Println("Hello!")
+func SayHello(name string) {
+	fmt.Println("Hello" + name + "!")
 }
 
 func SayGoodBye() {
