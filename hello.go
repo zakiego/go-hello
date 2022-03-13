@@ -23,5 +23,5 @@ func SayNothing() {
 }
 
 func SayLala() {
-	fmt.Println("Lala :(")
+	fmt.Println("Lala")
 }
