@@ -2,6 +2,8 @@ package hello
 
 import "fmt"
 
+// name required
+
 func SayHello(name string) {
 	fmt.Println("Hello " + name + " !")
 }
